@@ -1,0 +1,76 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500&display=swap" rel="stylesheet">
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="~/admin-root/Dashboard/fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="~/admin-root/Dashboard/css/owl.carousel.min.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/admin-root/Dashboard/css/bootstrap.min.css">
+
+    <!-- Style -->
+    <link rel="stylesheet" href="~/admin-root/Dashboard/css/style.css">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dashboard</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="~/admin-root/Dashboard/tablestyle.css">
+    <link rel="icon" type="image/x-icon" href="~/admin-root/Dashboard/images/dashboard.ico">
+    <script src="~/admin-root/Dashboard/jsModel.js"></script>
+</head>
+
+<body>
+
+    <aside class="sidebar">
+        <div class="toggle">
+            <a href="#" class="burger js-menu-toggle" data-toggle="collapse" data-target="#main-navbar">
+                <span></span>
+            </a>
+        </div>
+        <div class="side-inner">
+            <div class="profile">
+                <img src="~/admin-root/Dashboard/images/person_4.jpg" alt="Image" class="img-fluid">
+                <h3 class="name">Craig David</h3>
+                <span class="country">Web Designer</span>
+            </div>
+            <div class="nav-menu">
+                <ul>
+                    <li><a href="#"><span class="icon-notifications mr-3"></span>Kitab</a></li>
+                    <li><a href="#"><span class="icon-language mr-3"></span>Dil</a></li>
+                    <li><a href="#"><span class="icon-pie-chart mr-3"></span>Kateqoriya</a></li>
+                    <li><a href="#"><span class="icon-first-order mr-3"></span>Sifarişlər</a></li>
+                    <li><a href="#"><span class="icon-sign-out mr-3"></span>Çıxış</a></li>
+                </ul>
+            </div>
+        </div>
+    </aside>
+    <main>
+
+        <div class="container">
+            @RenderBody()
+        </div>
+    </main>
+    <script src="~/admin-root/Dashboard/js/jquery-3.3.1.min.js"></script>
+    <script src="~/admin-root/Dashboard/js/popper.min.js"></script>
+    <script src="~/admin-root/Dashboard/js/bootstrap.min.js"></script>
+    <script src="~/admin-root/Dashboard/js/main.js"></script>
+</body>
+
+</html>

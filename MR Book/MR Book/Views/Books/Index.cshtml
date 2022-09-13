@@ -1,0 +1,28 @@
+﻿@model List<ShowBookInterfaceVM>
+
+
+@for (int i = 0; i < Model.Count; i++)
+{
+    @*@if (i == 4)*@
+    @*break;*@
+
+    <div class="templatemo_product_box">
+        @{
+            var book = Model[i];
+        }
+
+        <h1>@book.Name</h1>
+        <img id="book-img" src="~/book-images/@book.Image" alt="book image" />
+        <div class="product_info">
+            <p>
+                @book.About;
+            </p>
+            <h3>@Model[i].Price AZN</h3>
+            <div class="buy_now_button"><a asp-controller="Books" asp-action="Order" asp-route-id="@book.Id">Sifariş Et</a></div>
+            <div class="detail_button"><a asp-controller="Books" asp-action="About" asp-route-id="@book.Id">Ətraflı</a></div>
+
+        </div>
+        <div class="cleaner">&nbsp;</div>
+    </div>
+}
+

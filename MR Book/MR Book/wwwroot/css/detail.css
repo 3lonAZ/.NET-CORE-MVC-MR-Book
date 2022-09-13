@@ -1,0 +1,37 @@
+﻿.about li {
+    margin-top: 12px;
+}
+
+.about-box {
+    display: block;
+    height: 140px;
+    max-height: 110px;
+    margin-bottom: 20px;
+    overflow-x: hidden;
+    overflow-y: visible;
+}
+
+.about li span {
+    color: #CBC750;
+}
+/*BEGIN About box scroll*/
+.about-box::-webkit-scrollbar {
+    color: aqua;
+    width: 2px;
+}
+
+/* Track */
+.about-box::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+
+/* Handle */
+.about-box::-webkit-scrollbar-thumb {
+    background: aqua;
+}
+
+    /* Handle on hover */
+    .about-box::-webkit-scrollbar-thumb:hover {
+        background: rgb(2, 138, 138);
+    }
+/*END About box scroll*/

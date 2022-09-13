@@ -1,0 +1,6 @@
+﻿@model List<ExternalFeature>
+
+@foreach (var category in @Model)
+{
+    <li><a asp-controller="Books" asp-action="ExternalCategory" asp-route-category="@category.Name" >@category.Name<span>&nbsp(@category.Count)</span></a></li>
+}

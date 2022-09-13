@@ -1,0 +1,18 @@
+﻿@model List<ShowBookInterfaceVM>
+<h1 style="width:635px; border:1px solid transparent; border-radius:50px;"><span>(@Model.Count)</span> Ədəd kitab tapıldı...</h1>
+@foreach (var result in Model)
+{
+    <div class="templatemo_product_box">
+        <h1>@result.Name</h1>
+        <img id="book-img" src="~/book-images/@result.Image" alt="book image" />
+        <div class="product_info">
+            <p>
+                @result.About;
+            </p>
+            <h3>@result.Price AZN</h3>
+            <div class="buy_now_button"><a asp-controller="Books" asp-action="Order" asp-route-id="@result.Id">Sifariş Et</a></div>
+            <div class="detail_button"><a asp-controller="Books" asp-action="About" asp-route-id="@result.Id">Ətraflı</a></div>
+        </div>
+        <div class="cleaner">&nbsp;</div>
+    </div>
+}

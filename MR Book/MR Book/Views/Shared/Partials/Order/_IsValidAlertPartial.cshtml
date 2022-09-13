@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNetCore.Mvc.ModelBinding
+@*@model List<KeyValuePair<string,Microsoft.AspNetCore.Mvc.ModelBinding.ModelStateEntry>>*@
+@model List<ModelError>
+
+@foreach (var item in @Model)
+{
+    <div class="notify"><span id="notifyType" class="">@item.ErrorMessage</span></div>
+}
+<script>
+     window.scrollTo({
+        top: 700,
+        left: 0,
+        behavior: 'smooth'
+    });
+    setTimeout(function() {
+        history.back();
+    }, 2500);
+</script>

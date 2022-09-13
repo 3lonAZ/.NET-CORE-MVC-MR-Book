@@ -1,0 +1,561 @@
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\appsettings.json
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.exe
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.deps.json
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.runtimeconfig.json
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.runtimeconfig.dev.json
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.pdb
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.Views.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.Views.pdb
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.AssemblyReference.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.AssemblyInfoInputs.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.AssemblyInfo.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.CoreCompileInputs.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorAssemblyInfo.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorAssemblyInfo.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\scopedcss\bundle\MR Book.styles.css
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\staticwebassets\MR Book.StaticWebAssets.Manifest.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.input.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.output.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorCoreGenerate.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Search.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Components\LeftContent\Contents.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\LeftContent\_CategoryPartial.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\LeftContent\_LanguagePartial.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Search\_NoResultPartial.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorTargetAssemblyInfo.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorTargetAssemblyInfo.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.Views.pdb
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.CopyComplete
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\refint\MR Book.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.pdb
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.genruntimeconfig.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\ref\MR Book.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\appsettings.json
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\MR Book.exe
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\MR Book.deps.json
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\MR Book.runtimeconfig.json
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\MR Book.runtimeconfig.dev.json
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\MR Book.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\MR Book.pdb
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\MR Book.Views.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\MR Book.Views.pdb
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Humanizer.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.AssemblyReference.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.AssemblyInfoInputs.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.AssemblyInfo.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.CoreCompileInputs.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorAssemblyInfo.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorAssemblyInfo.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\scopedcss\bundle\MR Book.styles.css
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\staticwebassets\MR Book.StaticWebAssets.Manifest.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.input.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.output.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorCoreGenerate.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Search.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\ErrorPage\Error.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Components\LeftContent\Contents.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Details\_AboutPartial.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\LeftContent\_CategoryPartial.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\LeftContent\_LanguagePartial.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_Buy.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_IsValidAlertPartial.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_ReceivedOrderPartial.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Search\_NoResultPartial.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorTargetAssemblyInfo.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorTargetAssemblyInfo.cs
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.Views.pdb
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.CopyComplete
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\refint\MR Book.dll
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.pdb
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\MR Book.genruntimeconfig.cache
+C:\Users\dmurad\source\repos\MR Book\MR Book\obj\Debug\net5.0\ref\MR Book.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\appsettings.json
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.exe
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.deps.json
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.runtimeconfig.json
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.runtimeconfig.dev.json
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ref\MR Book.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.pdb
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.Views.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.Views.pdb
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.AssemblyInfoInputs.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.AssemblyInfo.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.CoreCompileInputs.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorAssemblyInfo.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorAssemblyInfo.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\staticwebassets\MR Book.StaticWebAssets.Manifest.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\staticwebassets\MR Book.StaticWebAssets.xml
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\scopedcss\bundle\MR Book.styles.css
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.input.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.output.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorCoreGenerate.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStarts.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Search.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\ErrorPage\Error.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Components\LeftContent\Contents.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Details\_AboutPartial.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\LeftContent\_CategoryPartial.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\LeftContent\_LanguagePartial.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_Buy.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_IsValidAlertPartial.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_ReceivedOrderPartial.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Search\_NoResultPartial.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorTargetAssemblyInfo.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorTargetAssemblyInfo.cs
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.Views.pdb
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.CopyComplete
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\ref\MR Book.dll
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.pdb
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.genruntimeconfig.cache
+C:\Users\Murad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.AssemblyReference.cache
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\MR Book.StaticWebAssets.xml
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Humanizer.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dmurad\Desktop\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\MR Book.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStarts.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\ErrorPage\Error.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Details\_AboutPartial.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_Buy.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_IsValidAlertPartial.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_ReceivedOrderPartial.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\AddBook.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\DeleteBook.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\EditBook.cshtml.g.cs
+C:\Users\dmurad\Desktop\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Book.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\appsettings.Development.json
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\appsettings.json
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.StaticWebAssets.xml
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.exe
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.deps.json
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.runtimeconfig.json
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.runtimeconfig.dev.json
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.pdb
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.Views.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\MR Book.Views.pdb
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Humanizer.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.AssemblyReference.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.AssemblyInfoInputs.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.AssemblyInfo.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.CoreCompileInputs.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorAssemblyInfo.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorAssemblyInfo.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\scopedcss\bundle\MR Book.styles.css
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\staticwebassets\MR Book.StaticWebAssets.Manifest.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.input.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.output.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorCoreGenerate.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Book.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\AddBook.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\DeleteBook.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\EditBook.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStarts.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Search.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\ErrorPage\Error.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Components\LeftContent\Contents.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Details\_AboutPartial.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\LeftContent\_CategoryPartial.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\LeftContent\_LanguagePartial.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_Buy.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_IsValidAlertPartial.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Order\_ReceivedOrderPartial.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\Partials\Search\_NoResultPartial.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorTargetAssemblyInfo.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorTargetAssemblyInfo.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.Views.pdb
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.csproj.CopyComplete
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\refint\MR Book.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.pdb
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.genruntimeconfig.cache
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\ref\MR Book.dll

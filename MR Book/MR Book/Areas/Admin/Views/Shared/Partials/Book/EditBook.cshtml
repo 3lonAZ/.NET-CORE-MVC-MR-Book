@@ -1,0 +1,66 @@
+﻿
+ @model (BookModel,List<SelectListItem>,List<SelectListItem>)
+
+<div id="editEmployeeModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-content">
+                <form asp-controller="Dashboard" asp-action="AddBook" enctype="multipart/form-data" method="post">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Düzəliş et: <span style="color:#005BCE">Kitab</span></h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>Name</label>
+                            <input type="text" class="form-control" maxlength="30" required oninvalid="this.setCustomValidity('Boş yeri doldurun !')" oninput="this.setCustomValidity('')" asp-for="Item1.Name" />
+                        </div>
+                        <div class="form-group">
+                            <label>Author</label>
+                            <input type="text" class="form-control" maxlength="30" required oninvalid="this.setCustomValidity('Boş yeri doldurun !')" oninput="this.setCustomValidity('')" asp-for="Item1.Author">
+                        </div>
+                        <div class="form-group">
+                            <label>Language</label>
+
+                            <select class="form-control form-control-lg" asp-for="Item1.LanguageId" asp-items="@Model.Item3">
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>PageCount</label>
+                            <input type="text" class="form-control" maxlength="4" onkeypress="return valid_numbers(event);" required oninvalid="this.setCustomValidity('Boş yeri doldurun !')" oninput="this.setCustomValidity('')" asp-for="Item1.PageCount">
+                        </div>
+                        <div class="form-group">
+                            <label>Category</label>
+                            <select class="form-control form-control-lg" asp-for="Item1.CategoryID" asp-items="@Model.Item2">
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label>About</label>
+                            <textarea type="text" class="form-control" maxlength="1000" required oninvalid="this.setCustomValidity('Boş yeri doldurun !')" oninput="this.setCustomValidity('')" asp-for="Item1.About"></textarea>
+                        </div>
+                        <div class="form-group">
+                            <label>Price</label>
+                            <input type="text" class="form-control" maxlength="7" onkeypress="return valid_numbers(event);" required oninvalid="this.setCustomValidity('Boş yeri doldurun !')" oninput="this.setCustomValidity('')" asp-for="Item1.Price">
+                        </div>
+                        <div class="form-group">
+                            <label>Release Date</label>
+                            <input type="date" class="form-control" asp-for="Item1.Release_Date" value="mm/dd/yyyy" required />
+                        </div>
+                        <div class="form-group">
+                            <label>Size</label>
+                            <input type="text" class="form-control" asp-for="Item1.Size" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Image</label>
+                            <input id="fileUpload" type="file" accept="image/*" class="form-control" onchange="GetFileSizeNameAndType()" asp-for="Item1.BookIMG" required>
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <input type="button" class="btn btn-default" data-dismiss="modal" value="Ləğv et">
+                        <input type="submit" id="insert" style="background-color:#079BD6; border-color:#079BD6" class="btn btn-success" value="Düzəliş et">
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

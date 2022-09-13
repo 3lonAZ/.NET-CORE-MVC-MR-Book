@@ -1,0 +1,14 @@
+﻿@model (List<ExternalFeature> categories,List<ExternalFeature> languages)
+
+<div class="templatemo_content_left_section">
+    <h1>Kateqoriyalar</h1>
+    <ul>
+        <partial name="~/Views/Shared/Partials/LeftContent/_CategoryPartial.cshtml" model="Model.categories" />
+    </ul>
+</div>
+<div class="templatemo_content_left_section">
+    <h1>Dillər</h1>
+    <ul>
+        <partial name="~/Views/Shared/Partials/LeftContent/_LanguagePartial.cshtml" model="Model.languages" />
+    </ul>
+</div>

@@ -1,0 +1,6 @@
+﻿@model List<ExternalFeature>
+
+@foreach (var language in @Model)
+{
+    <li><a asp-controller="Books" asp-action="ExternalLanguage" asp-route-language="@language.Name" >@language.Name<span>&nbsp(@language.Count)</span></a></li>
+}

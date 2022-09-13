@@ -1,0 +1,33 @@
+﻿#validation-book {
+    height: 300px;
+    padding:0 150px 0 0;
+}
+#validation-input, #validation-input-address, #validation-input-count {
+    width: 300px;
+    height: 30px;
+    background-color: transparent;
+    font-size: 15px;
+    color: white;
+    border: none;
+    border-bottom: 2px solid;
+    border-bottom: 2px solid;
+    outline: none;
+    float: right;
+    margin-bottom: 20px;
+}
+#validation-input:focus,#validation-input-count:focus,#validation-input-address:focus {
+    border-bottom:2px solid #ffd800;
+}
+#validation-input-count {
+    width:55px;
+    text-align:center;
+    float:left;
+    margin-left:46px;
+}
+#validation-input[type='number'] {
+    -moz-appearance: textfield;
+}
+#validation-input::-webkit-outer-spin-button,
+#validation-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
