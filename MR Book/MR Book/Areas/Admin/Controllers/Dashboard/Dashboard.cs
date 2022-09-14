@@ -28,6 +28,12 @@ namespace MR_Book.Areas.Admin.Controllers.Dashboard
         public IActionResult Book()
         {
             var books = _bookModel.Read();
+            return View(books);
+        }
+        [Route("Admin/Dashboard/Book/Add")]
+        [HttpGet]
+        public IActionResult AddBook()
+        {
             var categoryList = _categoryModel.Read().Select(p => new SelectListItem
             {
                 Text = p.Category,
@@ -38,13 +44,12 @@ namespace MR_Book.Areas.Admin.Controllers.Dashboard
                 Text = p.Category,
                 Value = p.Id.ToString()
             }).ToList();
-
-            var tupleData = (books, categoryList, languageList);
-            return View(tupleData);
+            var tupleData = (new BookModel(), categoryList, languageList);
+            return View("AddBook",tupleData);
         }
         [HttpPost]
         public IActionResult AddBook([Bind(Prefix = "Item1")] BookModel bookModel)
-        {            
+        {
             _bookModel.Create(bookModel);
             return RedirectToAction("Book");
         }
@@ -57,6 +62,8 @@ namespace MR_Book.Areas.Admin.Controllers.Dashboard
                 Text = p.Category,
                 Value = p.Id.ToString()
             }).ToList();
+            int a = 4;
+            string c = "213";
             var languageList = _languageModel.Read().Select(p => new SelectListItem
             {
                 Text = p.Category,
@@ -64,7 +71,7 @@ namespace MR_Book.Areas.Admin.Controllers.Dashboard
             }).ToList();
 
             var tupleData = (books, categoryList, languageList);
-            return PartialView("~/Areas/Admin/Views/Shared/Partials/Book/EditBook.cshtml", tupleData);
+            return PartialView("~/Areas/Admin/Views/Shared/Partials/Book/EditBook.cshtml",tupleData);
         }
 
         [Route("Admin/Dashboard/Book/Delete/{id}")]

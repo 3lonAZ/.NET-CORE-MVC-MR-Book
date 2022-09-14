@@ -32,6 +32,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\admin-root\assets\js\script.js" />
     <None Include="wwwroot\admin-root\Dashboard\css\.DS_Store" />
     <None Include="wwwroot\admin-root\Dashboard\css\bootstrap.min.css.map" />
     <None Include="wwwroot\admin-root\Dashboard\fonts\.DS_Store" />

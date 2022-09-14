@@ -527,7 +527,6 @@ C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.in
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.output.cache
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorCoreGenerate.cache
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
-C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Book.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\AddBook.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\DeleteBook.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\EditBook.cshtml.g.cs
@@ -559,3 +558,6 @@ C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\refint\MR Book.dll
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.pdb
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.genruntimeconfig.cache
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\ref\MR Book.dll
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Book.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\AddBook.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\EditBook.cshtml.g.cs

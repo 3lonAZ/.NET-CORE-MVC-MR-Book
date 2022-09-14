@@ -3,7 +3,7 @@
 }
 
 
- @model (List<BookModel>,List<SelectListItem>,List<SelectListItem>)
+ @model List<BookModel>
 
 <div class="table-responsive">
     <div class="table-wrapper">
@@ -13,7 +13,7 @@
                     <h2>Kitab</h2>
                 </div>
                 <div  class="col-xs-6">
-                    <a href="#addEmployeeModal" class="btn btn-success" data-toggle="modal">
+                    <a asp-action="AddBook" class="btn btn-success">
                         <i class="material-icons">&#xE147;</i> <span>Əlavə et</span>
                     </a>
                     <a href="#deleteEmployeeModal" class="btn btn-danger" data-toggle="modal">
@@ -42,7 +42,7 @@
                 </thead>
                 <tbody>
 
-                    @foreach (var item in Model.Item1)
+                    @foreach (var item in Model)
                     {
                         <tr>
                             <td>@item.Id</td>
@@ -93,6 +93,4 @@
         </div>
     </div>
 </div>
-<partial name="~/Areas/Admin/Views/Shared/Partials/Book/AddBook.cshtml" model="(new BookModel(),Model.Item2,Model.Item3)"></partial>
 <partial name="~/Areas/Admin/Views/Shared/Partials/Book/DeleteBook.cshtml"></partial>
-<partial name="~/Areas/Admin/Views/Shared/Partials/Book/EditBook.cshtml" model="(new BookModel(),Model.Item2,Model.Item3)"></partial>

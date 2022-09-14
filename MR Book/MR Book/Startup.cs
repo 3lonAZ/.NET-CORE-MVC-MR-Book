@@ -71,14 +71,7 @@ namespace MR_Book
                       pattern: "{area:exists}/{controller=Admin}/{action=Index}/{id?}"
                     );
                 });
-                app.UseEndpoints(endpoints =>
-                {
-                    endpoints.MapControllerRoute(
-                      name: "admin_panel",
-                      pattern: "{area:exists}/{controller=Book}/{action=Index}/{id?}"
-                    );
-                });
-
+              
                 endpoints.MapDefaultControllerRoute();
             });
         }
