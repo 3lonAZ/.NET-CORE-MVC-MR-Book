@@ -45,7 +45,7 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
                 command.Parameters.AddWithValue("@book_category", model.CategoryID);
                 command.Parameters.AddWithValue("@book_about", model.About);
                 command.Parameters.AddWithValue("@book_price", model.Price);
-                command.Parameters.AddWithValue("@book_release_date", model.Release_Date.ToString("MM-dd-yyyy"));
+                command.Parameters.AddWithValue("@book_release_date", model.Release_Date.Value.ToString("MM-dd-yyyy"));
                 command.Parameters.AddWithValue("@book_size", model.Size);
                 command.Parameters.AddWithValue("@book_image", model.BookIMG.FileName);
                 command.ExecuteNonQuery();
@@ -147,7 +147,7 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
                 command.Parameters.AddWithValue("@category", model.Category);
                 command.Parameters.AddWithValue("@about", model.About);
                 command.Parameters.AddWithValue("@price", model.Price);
-                command.Parameters.AddWithValue("@release_date", model.Release_Date.ToShortDateString());
+                command.Parameters.AddWithValue("@release_date", model.Release_Date.Value.ToShortDateString());
                 command.Parameters.AddWithValue("@psize", model.Size);
                 command.Parameters.AddWithValue("@Id", model.Id);
                 command.ExecuteNonQuery();

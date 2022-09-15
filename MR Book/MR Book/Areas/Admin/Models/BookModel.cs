@@ -20,7 +20,7 @@ namespace MR_Book.Areas.Admin.Models
         public string Category { get; set; }
         public string About { get; set; }
         public double? Price { get; set; }
-        public DateTime Release_Date { get; set; }
+        public DateTime? Release_Date { get; set; }
         public string Size { get; set; }
         public string ImageUrl { get; set; }
         public IFormFile BookIMG { get; set; }

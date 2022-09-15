@@ -47,13 +47,17 @@ namespace MR_Book.Areas.Admin.Controllers.Dashboard
             var tupleData = (new BookModel(), categoryList, languageList);
             return View("AddBook",tupleData);
         }
+
+        [Route("Admin/Dashboard/Book/Add")]
         [HttpPost]
         public IActionResult AddBook([Bind(Prefix = "Item1")] BookModel bookModel)
         {
             _bookModel.Create(bookModel);
             return RedirectToAction("Book");
         }
+
         [Route("Admin/Dashboard/Book/Edit/{id}")]
+
         public IActionResult EditBook(int id)
         {
             var books = _bookModel.Read().Where(x => x.Id == id).FirstOrDefault();
@@ -71,7 +75,7 @@ namespace MR_Book.Areas.Admin.Controllers.Dashboard
             }).ToList();
 
             var tupleData = (books, categoryList, languageList);
-            return PartialView("~/Areas/Admin/Views/Shared/Partials/Book/EditBook.cshtml",tupleData);
+            return View(tupleData);
         }
 
         [Route("Admin/Dashboard/Book/Delete/{id}")]
