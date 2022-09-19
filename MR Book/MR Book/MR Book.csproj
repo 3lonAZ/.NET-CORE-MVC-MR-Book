@@ -20,10 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Areas\Admin\Controllers\Dashboard\Dashboard\" />
-    <Folder Include="Areas\Admin\Controllers\Dashboard\Language\" />
-    <Folder Include="Areas\Admin\Views\Shared\Partials\Category\" />
-    <Folder Include="Areas\Admin\Views\Shared\Partials\Language\" />
     <Folder Include="Areas\Admin\Views\Shared\Partials\Order Detail\" />
     <Folder Include="Book\" />
     <Folder Include="Upload\" />

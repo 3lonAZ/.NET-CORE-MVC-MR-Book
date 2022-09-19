@@ -1,0 +1,20 @@
+﻿<div id="deleteEmployeeModal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <form asp-controller="Category" asp-action="DeleteCategory" method="post">
+                <div class="modal-header">
+                    <h4 class="modal-title">Sil: <span style="color:red;">Kateqoriya</span></h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <p style="color:#DB231A;">Bütün məlumatlar silinsin ?</p>
+                    <p class="text-warning"><small>Bu əməliyyat geri qaytarıla bilməz.</small></p>
+                </div>
+                <div class="modal-footer">
+                    <input type="button" class="btn btn-default" data-dismiss="modal" value="Ləğv et">
+                    <input type="submit" class="btn btn-danger" value="Sil">
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

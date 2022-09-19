@@ -1,5 +1,9 @@
-﻿@model AdminLog
- 
+﻿@{
+    Layout = null;
+}
+
+@model AdminLog
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,9 +57,8 @@
                         </span>
                     </div>
                     <div style="padding-left: 10px; color: red;" asp-validation-summary="All">
-
                     </div>
-                    <div style="padding-left: 10px; color: red";>
+                    <div style="padding-left: 10px; color: red" ;>
                         @ViewBag.FailLogMsg
                     </div>
                     <div class="container-login100-form-btn">

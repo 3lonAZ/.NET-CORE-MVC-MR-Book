@@ -8,6 +8,6 @@ namespace MR_Book.Areas.Admin.Models
     public class LanguageModel
     {
         public int Id { get; set; }
-        public string Category { get; set; }
+        public string Language { get; set; }
     }
 }

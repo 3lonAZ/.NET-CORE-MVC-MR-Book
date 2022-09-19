@@ -127,7 +127,9 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
                         Size = (string)reader["Size"],
                         ImageUrl = (string)reader["Image"],
                         Languages = (string)reader["Language"],
-                        Category = (string)reader["Category"]
+                        Category = (string)reader["Category"],
+                        LanguageId = (int)reader["LanguageID"],
+                        CategoryID = (int)reader["CategoryID"]
                     });
                 }
                 connection.Close();
@@ -142,14 +144,30 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
                 connection.Open();
                 SqlCommand command = new SqlCommand("exec UpdateBook @name,@author,@language,@page_count,@category,@about,@price,@release_date,@size,@image,@id", connection);
                 command.Parameters.AddWithValue("@name", model.Name);
-                command.Parameters.AddWithValue("@language", model.Languages);
+                command.Parameters.AddWithValue("@author", model.Author);
+                command.Parameters.AddWithValue("@language", model.LanguageId);
                 command.Parameters.AddWithValue("@page_count", model.PageCount);
-                command.Parameters.AddWithValue("@category", model.Category);
+                command.Parameters.AddWithValue("@category", model.CategoryID);
                 command.Parameters.AddWithValue("@about", model.About);
                 command.Parameters.AddWithValue("@price", model.Price);
-                command.Parameters.AddWithValue("@release_date", model.Release_Date.Value.ToShortDateString());
-                command.Parameters.AddWithValue("@psize", model.Size);
+                command.Parameters.AddWithValue("@release_date", model.Release_Date.Value.ToString("MM-dd-yyyy"));
+
+
+                if (model.BookIMG == null)
+                    command.Parameters.AddWithValue("@image", DBNull.Value);
+                else
+                {
+                    command.Parameters.AddWithValue("@image", model.BookIMG.FileName);
+                    _ = UploadFile(model.BookIMG);
+                }
+
+
+
+                command.Parameters.AddWithValue("@size", model.Size);
                 command.Parameters.AddWithValue("@Id", model.Id);
+
+
+
                 command.ExecuteNonQuery();
 
                 connection.Close();
@@ -166,12 +184,27 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
         }
         public void Create(CategoryModel model)
         {
-            throw new NotImplementedException();
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec CreateCategory @category", connection);
+                command.Parameters.AddWithValue("@category", model.Category);
+                command.ExecuteNonQuery();
+
+                connection.Close();
+            }
         }
 
         public void Delete()
         {
-            throw new NotImplementedException();
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec DeleteCategory", connection);
+                command.ExecuteNonQuery();
+
+                connection.Close();
+            }
         }
 
         public List<CategoryModel> Read()
@@ -197,11 +230,30 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
         }
         public void Remove(int id)
         {
-            
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec DeleteCategoryById @id", connection);
+                command.Parameters.AddWithValue("@id", id);
+
+                command.ExecuteNonQuery();
+
+                connection.Close();
+            }
         }
         public void Update(CategoryModel model)
         {
-            throw new NotImplementedException();
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec UpdateCategory @category,@id", connection);
+                command.Parameters.AddWithValue("@category", model.Category);
+                command.Parameters.AddWithValue("@id", model.Id);
+
+                command.ExecuteNonQuery();
+
+                connection.Close();
+            }
         }
     }
     public class LanguageModelFactory : ICrud<LanguageModel>
@@ -213,12 +265,29 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
         }
         public void Create(LanguageModel model)
         {
-            throw new NotImplementedException();
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec CreateLanguage @language", connection);
+                command.Parameters.AddWithValue("@language", model.Language);
+                command.ExecuteNonQuery();
+
+                connection.Close();
+            }
         }
 
         public void Remove(int id)
         {
-            throw new NotImplementedException();
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec DeleteLanguageById @id", connection);
+                command.Parameters.AddWithValue("@id", id);
+
+                command.ExecuteNonQuery();
+
+                connection.Close();
+            }
         }
 
         public List<LanguageModel> Read()
@@ -236,7 +305,7 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
                     languages.Add(new LanguageModel
                     {
                         Id = (int)reader["Id"],
-                        Category = reader["Language"].ToString()
+                        Language = reader["Language"].ToString()
                     });
                 }
                 connection.Close();
@@ -246,20 +315,30 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
         }
         public void Delete()
         {
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec DeleteLanguage", connection);
 
+                command.ExecuteNonQuery();
+
+                connection.Close();
+            }
         }
 
         public void Update(LanguageModel model)
         {
-            throw new NotImplementedException();
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec UpdateLanguage @language,@id", connection);
+                command.Parameters.AddWithValue("@language", model.Language);
+                command.Parameters.AddWithValue("@id", model.Id);
+
+                command.ExecuteNonQuery();
+
+                connection.Close();
+            }
         }
     }
-
-    //public class OrderModelFactory : OrderFactory
-    //{
-    //    public void Read()
-    //    {
-    //        throw new NotImplementedException();
-    //    }
-    //}
 }

@@ -527,12 +527,9 @@ C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.in
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.TagHelpers.output.cache
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\MR Book.RazorCoreGenerate.cache
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Admin\Index.cshtml.g.cs
-C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\AddBook.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\DeleteBook.cshtml.g.cs
-C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Book\EditBook.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
-C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStarts.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Index.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Books\Search.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Views\Contact\Index.cshtml.g.cs
@@ -561,3 +558,12 @@ C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\ref\MR Book.dll
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\Book.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\AddBook.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Dashboard\EditBook.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Language\Index.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Language\AddLanguage.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Language\DeleteLanguage.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Language\EditLanguage.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\AddCategory.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\EditCategory.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Category\DeleteCategory.cshtml.g.cs

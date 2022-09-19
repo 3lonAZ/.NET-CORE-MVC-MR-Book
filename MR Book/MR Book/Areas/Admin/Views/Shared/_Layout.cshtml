@@ -35,9 +35,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="~/images/mrbook.ico" />
     <script src="~/admin-root/Dashboard/jsModel.js"></script>
 </head>
-
 <body>
-
     <aside class="sidebar">
         <div class="toggle">
             <a href="#" class="burger js-menu-toggle" data-toggle="collapse" data-target="#main-navbar">
@@ -46,15 +44,14 @@
         </div>
         <div class="side-inner">
             <div class="profile">
-                <img src="~/admin-root/Dashboard/images/person_4.jpg" alt="Image" class="img-fluid">
-                <h3 class="name">Craig David</h3>
-                <span class="country">Web Designer</span>
+                <img src="~/admin-root/images/admin-img.png" alt="Image" class="img-fluid">
+                <h3 class="name">Admin</h3>
             </div>
             <div class="nav-menu">
                 <ul>
-                    <li><a href="#"><span class="icon-notifications mr-3"></span>Kitab</a></li>
-                    <li><a href="#"><span class="icon-language mr-3"></span>Dil</a></li>
-                    <li><a href="#"><span class="icon-pie-chart mr-3"></span>Kateqoriya</a></li>
+                    <li><a href="~/Admin/Dashboard/Book"><span class="icon-notifications mr-3"></span>Kitab</a></li>
+                    <li><a href="~/Admin/Dashboard/Language"><span class="icon-language mr-3"></span>Dil</a></li>
+                    <li><a href="~/Admin/Dashboard/Category"><span class="icon-pie-chart mr-3"></span>Kateqoriya</a></li>
                     <li><a href="#"><span class="icon-first-order mr-3"></span>Sifarişlər</a></li>
                     <li><a href="#"><span class="icon-sign-out mr-3"></span>Çıxış</a></li>
                 </ul>
@@ -62,7 +59,6 @@
         </div>
     </aside>
     <main>
-
         <div class="container">
             @RenderBody()
         </div>

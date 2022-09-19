@@ -1,0 +1,40 @@
+﻿
+
+@model CategoryModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Əlavə et</title>
+    <link rel="shortcut icon" type="image/x-icon" href="~/images/mrbook.ico" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.4.1/css/simple-line-icons.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/admin-root/assets/css/style.css">
+</head>
+<body>
+    <div class="registration-form">
+        <form asp-controller="Category" asp-action="AddCategory" enctype="multipart/form-data" method="post">
+            <div style="padding-right: 155px" class="form-icon">
+                <img width="150" height="150" id="image" src="~/admin-root/images/book.png">
+            </div>
+            <div class="form-group">
+                <input type="text" class="form-control item" id="category" placeholder="Kateqoriya" asp-for="Category" required oninvalid="this.setCustomValidity('Boş yeri doldurun !')" oninput="this.setCustomValidity('')">
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-block create-account" value="Əlavə et">
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+    <script src="~/admin-root/assets/js/script.js"></script>
+</body>
+</html>
+<script>
+
+$(".form-control").css("font-size", "1.5rem").css("height","50px");
+
+</script>
