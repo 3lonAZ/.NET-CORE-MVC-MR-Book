@@ -63,12 +63,13 @@ namespace MR_Book.Models.Pages
             using (SqlConnection connection = _connections.Connection)
             {
                 connection.Open();
-                SqlCommand command = new SqlCommand("exec CreateOrderDetail @full_name,@contact_number,@count,@address,@order_date", connection);
+                SqlCommand command = new SqlCommand("exec CreateOrderDetail @book_id,@full_name,@contact_number,@count,@address,@order_date", connection);
+                command.Parameters.AddWithValue("@book_id", order.BookID);
                 command.Parameters.AddWithValue("@full_name", order.FullName);
                 command.Parameters.AddWithValue("@contact_number", order.ContactNumber);
                 command.Parameters.AddWithValue("@count", order.Count);
                 command.Parameters.AddWithValue("@address", order.Address);
-                command.Parameters.AddWithValue("@order_date", DateTime.Now.ToString("yyyy-MM-dd"));
+                command.Parameters.AddWithValue("@order_date", DateTime.Now.ToString("yyyy.MM.dd HH:mm"));
 
                 command.ExecuteNonQuery();
             }

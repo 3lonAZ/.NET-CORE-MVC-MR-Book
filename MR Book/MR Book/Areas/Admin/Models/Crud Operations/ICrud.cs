@@ -19,9 +19,12 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
         void Delete();
         void Remove(int id);
     }
-    public interface OrderFactory
+    public interface ICrudSpecial<TModel>
     {
-        void Read();
+        List<TModel> Read();
+        void Delete();
+        void Remove(int id);
+
     }
     public class BookFacotry : ICrud<BookModel>
     {
@@ -337,6 +340,70 @@ namespace MR_Book.Areas.Admin.Models.Crud_Operations
 
                 command.ExecuteNonQuery();
 
+                connection.Close();
+            }
+        }
+    }
+    public class OrdersModelFactory : ICrudSpecial<OrderModel>
+    {
+        private readonly IConnections<SqlConnection> _connection;
+        public OrdersModelFactory(IConnections<SqlConnection> connection)
+        {
+            _connection = connection;
+        }
+
+        public void Delete()
+        {
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec DeleteOrderDetail", connection);
+                command.ExecuteNonQuery();
+                connection.Close();
+            }
+        }
+
+        public List<OrderModel> Read()
+        {
+            {
+                var orderModel = new List<OrderModel>();
+
+                using (SqlConnection connection = _connection.Connection)
+                {
+                    connection.Open();
+                    SqlCommand command = new SqlCommand("exec GetOrderDetail", connection);
+                    SqlDataReader reader = command.ExecuteReader();
+                    while (reader.Read())
+                    {
+                        orderModel.Add(new OrderModel
+                        {
+                            Id = (int)reader["Id"],
+                            BookID = (int)reader["Book_ID"],
+                            BookName = (string)reader["Name"],
+                            FullName = (string)reader["Full_Name"],
+                            ContactNumber = (string)reader["Contact_Number"],
+                            Count = (byte)reader["Count"],
+                            Address = (string)reader["Address"],
+                            OrderDate = (DateTime)reader["Order_Date"]
+                        });
+                    }
+                    connection.Close();
+                };
+
+                return orderModel;
+            }
+
+           
+        }
+        public void Remove(int id)
+        {
+            using (SqlConnection connection = _connection.Connection)
+            {
+                connection.Open();
+                SqlCommand command = new SqlCommand("exec DeleteOrderDetailById @orderId", connection);
+                command.Parameters.AddWithValue("orderId", id);
+
+                command.ExecuteNonQuery();
                 connection.Close();
             }
         }

@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using MR_Book.Areas.Admin.Models;
 using MR_Book.Areas.Admin.Models.Crud_Operations;
+using MR_Book.Models.Filter;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -13,6 +14,7 @@ using System.Threading.Tasks;
 
 namespace MR_Book.Areas.Admin.Controllers.Dashboard
 {
+    [AdminFilter]
     [Area("Admin")]
     public class DashboardController : Controller
     {
@@ -96,6 +98,12 @@ namespace MR_Book.Areas.Admin.Controllers.Dashboard
         {
             _bookModel.Delete();
             return RedirectToAction("Book");
+        }
+        [HttpGet]
+        public IActionResult LogOut()
+        {
+            HttpContext.Session.Clear();
+            return Redirect("~/Admin");
         }
     }
 }

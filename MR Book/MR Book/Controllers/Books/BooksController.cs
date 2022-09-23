@@ -90,13 +90,13 @@ namespace MR_Book.Controllers
             return View("~/Views/Shared/Partials/Details/_AboutPartial.cshtml", bookData);
         }
 
-
         [HttpGet]
         [Route("Books/Order/{id}")]
         public IActionResult Order(int id)
         {
             var bookData = _booksPage.SelectData().Where(x => x.Id == id).Select(p => new OrderVM
             {
+                BookID = p.Id,
                 Name = p.Name,
                 Image = p.Image
             }).ToList();
@@ -104,7 +104,8 @@ namespace MR_Book.Controllers
             return View("~/Views/Shared/Partials/Order/_Buy.cshtml", tupleData);
         }
         [HttpPost]
-        public IActionResult Order([Bind(Prefix = "Item2")] OrderDetail order)
+        [Route("Books/Order/{book_id}")]
+        public IActionResult Order(int book_id,[Bind(Prefix = "Item2")] OrderDetail order)
         {
             if (!ModelState.IsValid)
             {
@@ -112,6 +113,7 @@ namespace MR_Book.Controllers
 
                 return View("~/Views/Shared/Partials/Order/_IsValidAlertPartial.cshtml",allErrors);
             }
+            order.BookID = book_id;
             _booksPage.InsertOrder(order);
 
 

@@ -567,3 +567,5 @@ C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Vie
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\EditCategory.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
 C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Category\DeleteCategory.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Orders\Index.cshtml.g.cs
+C:\Git\my_projects\MRBook\MR Book\MR Book\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Partials\Orders\DeleteOrders.cshtml.g.cs

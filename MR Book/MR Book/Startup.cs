@@ -31,7 +31,8 @@ namespace MR_Book
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-
+            services.AddSession();
+            services.AddDistributedMemoryCache();
             services.AddControllersWithViews().AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<Startup>());
             services.AddSingleton<IConnections<SqlConnection>, MyLocalSqlConnection>();
             services.AddSingleton<IExternalFeature, ExternalFeature>();
@@ -41,6 +42,7 @@ namespace MR_Book
             services.AddSingleton<ICrud<BookModel>, BookFacotry>();
             services.AddSingleton<ICrud<CategoryModel>, CategoryFactory>();
             services.AddSingleton<ICrud<LanguageModel>, LanguageModelFactory>();
+            services.AddSingleton<ICrudSpecial<OrderModel>, OrdersModelFactory>();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
@@ -59,7 +61,7 @@ namespace MR_Book
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseSession();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

@@ -16,7 +16,7 @@
         <input id="validation-input-count" type="number" min="1" max="5" placeholder="Sayı" asp-for="Item2.Count" required/>
         <input id="validation-input-address" type="text" placeholder="Ünvan" asp-for="Item2.Address" maxlength="70" required/>
     </div>
-    <button class="button" type="submit" asp-controller="Books" asp-action="Order" formmethod="post">
+    <button class="button" type="submit" asp-controller="Books" asp-action="Order" asp-route-book_id="@Model.Item1.First().BookID" formmethod="post">
         <span>Sifariş Et</span>
         <svg class="button__svg" role="presentational" viewBox="0 0 600 600">
             <defs>

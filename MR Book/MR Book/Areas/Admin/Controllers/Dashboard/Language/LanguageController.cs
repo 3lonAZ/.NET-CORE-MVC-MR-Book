@@ -1,10 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MR_Book.Areas.Admin.Models;
 using MR_Book.Areas.Admin.Models.Crud_Operations;
+using MR_Book.Models.Filter;
 using System.Linq;
 
 namespace MR_Book.Areas.Admin.Controllers.Dashboard.Language
 {
+    [AdminFilter]
+
     [Area("Admin")]
     public class LanguageController : Controller
     {
