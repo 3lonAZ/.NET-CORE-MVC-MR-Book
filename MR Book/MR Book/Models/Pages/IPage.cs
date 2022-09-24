@@ -7,6 +7,7 @@ using MR_Book.Models.Pages.ExternalData;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MR_Book.Models.Pages.Order;
+using System.Globalization;
 
 namespace MR_Book.Models.Pages
 {
@@ -69,6 +70,7 @@ namespace MR_Book.Models.Pages
                 command.Parameters.AddWithValue("@contact_number", order.ContactNumber);
                 command.Parameters.AddWithValue("@count", order.Count);
                 command.Parameters.AddWithValue("@address", order.Address);
+
                 command.Parameters.AddWithValue("@order_date", DateTime.Now.ToString("yyyy.MM.dd HH:mm"));
 
                 command.ExecuteNonQuery();
